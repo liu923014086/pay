@@ -20,7 +20,7 @@ import com.kk.platform.model.PayMerchantChannel;
 import com.kk.platform.model.PayOrder;
 import com.kk.platform.service.PayOrderService;
 import com.kk.util.DateUtil;
-import com.kk.utils.HttpClientUtil;
+import com.kk.util.HttpClientUtil;
 import com.kk.utils.LocalIPUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.logging.Log;

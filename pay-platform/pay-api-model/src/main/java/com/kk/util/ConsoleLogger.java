@@ -1,4 +1,4 @@
-package com.kk.utils;
+package com.kk.util;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

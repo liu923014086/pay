@@ -1,7 +1,7 @@
 package com.kk.util;
 
-import com.kk.utils.MD5Util;
-import com.kk.utils.RSA;
+import com.kk.util.MD5Util;
+import com.kk.util.RSA;
 import org.apache.commons.lang.StringUtils;
 
 import java.util.Iterator;

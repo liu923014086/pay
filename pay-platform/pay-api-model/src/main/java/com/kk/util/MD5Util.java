@@ -1,4 +1,4 @@
-package com.kk.utils;
+package com.kk.util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

@@ -1,4 +1,4 @@
-package com.kk.utils;
+package com.kk.util;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;

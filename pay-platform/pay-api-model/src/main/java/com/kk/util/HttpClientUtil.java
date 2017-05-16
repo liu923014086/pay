@@ -1,4 +1,4 @@
-package com.kk.utils;
+package com.kk.util;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.logging.Log;

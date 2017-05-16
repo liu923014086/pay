@@ -2,7 +2,7 @@ package com.kk.platform.service;
 
 import com.kk.platform.dao.PayMerchantDao;
 import com.kk.platform.model.PayMerchant;
-import com.kk.utils.MD5Util;
+import com.kk.util.MD5Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -10,7 +10,7 @@ import com.kk.util.BeanUtil;
 import com.kk.util.Consts;
 import com.kk.util.DateUtil;
 import com.kk.util.SignUtils;
-import com.kk.utils.HttpClientUtil;
+import com.kk.util.HttpClientUtil;
 import com.kk.utils.JsonUtil;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

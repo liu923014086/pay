@@ -5,7 +5,7 @@ import com.kk.alipay.exception.AliPayException;
 import com.kk.alipay.response.AliPayResponse;
 import com.kk.util.BeanUtil;
 import com.kk.util.SignUtils;
-import com.kk.utils.HttpClientUtil;
+import com.kk.util.HttpClientUtil;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.lang.reflect.FieldUtils;
 import org.apache.commons.lang3.StringUtils;

@@ -10,8 +10,8 @@ import com.kk.api.response.RefundResponse;
 import com.kk.test.util.Consts;
 import com.kk.util.BeanUtil;
 import com.kk.util.SignUtils;
-import com.kk.utils.ConsoleLogger;
-import com.kk.utils.HttpClientUtil;
+import com.kk.util.ConsoleLogger;
+import com.kk.util.HttpClientUtil;
 import org.junit.Test;
 
 import java.util.Map;
