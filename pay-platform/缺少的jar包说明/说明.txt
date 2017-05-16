@@ -1,0 +1,3 @@
+在自己的仓库里安装一下
+
+mvn install:install-file -Dfile=E:\apache-maven-3.2.5\extlib\alipay-sdk-java20161213173952.jar -DgroupId=com.alipay.api -DartifactId=alipay-sdk -Dversion=1.5 -Dpackaging=jar  -DgeneratePom=true -DcreateChecksum=true
